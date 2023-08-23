@@ -1,1 +1,1 @@
-Git first project
+Collaboration: be up to date
